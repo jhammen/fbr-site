@@ -1,0 +1,39 @@
+[
+  {
+    "base": "https://archive.org/download/Bach_Organ_Works_Preludes_and_Fugues-10823/",
+		"composer": "Johann Sebastian Bach",
+    "performer": "James Kibbie",
+    "release": "Bach Organ Works: Preludes and Fugues",    
+    "image": "https://ia902606.us.archive.org/27/items/Bach_Organ_Works_Preludes_and_Fugues-10823/Bach_Organ_Works_Preludes_and_Fugues-10823.jpg",
+    "tracks": [
+      {
+        "title": "BWV 531: Prelude and Fugue in C Major - 1. Praeludium ",
+        "url": "James_Kibbie_-_01_-_BWV_531_Prelude_and_Fugue_in_C_Major_-_1_Praeludium.ogg"
+      },
+      {
+        "title": "BWV 531: Prelude and Fugue in C Major - 2. Fuga",
+        "url": "James_Kibbie_-_02_-_BWV_531_Prelude_and_Fugue_in_C_Major_-_2_Fuga.ogg"
+      }
+    ]
+  },
+  {		
+    "base": "https://archive.org/download/The_Open_Goldberg_Variations-11823/",
+    "composer": "J​.​S. Bach",
+    "performer": "Kimiko Ishizaka",
+    "release": "The Open Goldberg Variations",   
+		"link": "http://music.kimiko-piano.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano",
+    "image": "https://ia800707.us.archive.org/17/items/The_Open_Goldberg_Variations-11823/The_Open_Goldberg_Variations-11823.jpg",
+    "tracks": [
+      {
+        "title": "Aria",
+        "url": "Kimiko_Ishizaka_-_01_-_Aria.mp3"
+      }, {
+        "title" : "Variatio 1 a 1 Clav.",
+        "url": "Kimiko_Ishizaka_-_02_-_Variatio_1_a_1_Clav.ogg"
+      }, {
+        "title" : "Variatio 2 a 1 Clav. ",
+        "url": "Kimiko_Ishizaka_-_03_-_Variatio_2_a_1_Clav.ogg"
+      }
+    ]
+  }
+]
